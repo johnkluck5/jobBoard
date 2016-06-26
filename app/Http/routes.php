@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/', 'JobsController@index');
+Route::get('/', 'jobsController@index');
